@@ -1,6 +1,6 @@
-<h1>Hi, I'm Imra'n! <br/><a href="www.linkedin.com/in/imranwhitmore">IT Service Managment Professional</a>, <a href="www.linkedin.com/in/imranwhitmore">ServiceNow System Administrator</a></h1>
+<h1>Hi, I'm Imra'n! <br/><a href="www.linkedin.com/in/imranwhitmore">ITSM Professional</a>, <a href="www.linkedin.com/in/imranwhitmore">ServiceNow System Administrator</a></h1>
 
-<h2>👨‍💻 ServiceNow Workflows:</h2>
+<h2>🧑🏽‍💻 SERVICENOW WORKFLOWS </h2>
 
 - <b>Help Desk/Service Desk Process</b>
   - [Working through tickets in ServiceNow](https://youtu.be/CCyZ4PZArHk?si=1h2r9_OyAZi6vKyN)
@@ -30,18 +30,33 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 -->
 
-<!--
-<h2>💻 ServiceNow Applications and Projects</h2>
+
+<h2>💻 SERVICENOW APPLICATIONS AND PROJECTS</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://w
+
+
+<h2>📄 CERTIFICATIONS </h2>
+
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 -->
 
+
+<h2>🤳🏽 CCONNECT WITH ME </h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+[linkedin]: www.linkedin.com/in/imranwhitmore
+[youtube]: https://www.youtube.com/c/joshmadakor
+
+
 <!--
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳🏽 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -53,6 +68,7 @@
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
 -->
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
